@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.DS_Store
+
+# PocketBase: el ejecutable y los datos NO se suben (se descarga y se regenera)
+pocketbase/pocketbase
+pocketbase/pocketbase.exe
+pocketbase/pb_data/
+pocketbase/CHANGELOG.md
+pocketbase/LICENSE.md
